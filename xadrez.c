@@ -6,9 +6,9 @@ int main() {
     // Nível Novato - Movimentação das Peças
     // Sugestão: Declare variáveis constantes para representar o número de casas que cada peça pode se mover.
 
-    char Bispo = 5;  
-    char Torre = 5;
-    char Rainha = 8;
+    int Bispo = 5;  
+    int Torre = 5;
+    int Rainha = 8;
     int i;
    
     // Implementação de Movimentação do Bispo
